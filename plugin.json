@@ -3,6 +3,7 @@
     "name": "Better Monokai",
     "main": "dist/main.js",
     "version": "1.0.0",
+    "minVersionCode" : 290,
     "readme": "readme.md",
     "icon": "icon.png",
     "files": [],
